@@ -9,4 +9,4 @@
 - ⚡ Curiosidade: tenho o nariz avantajado👃
 # Olá, me chamo Vitor Aparecido Miguel ! 
 ## Bem vindo ao meu perfil GitHub 👋
-![Snake animation](https://i.pinimg.com/736x/11/f2/3d/11f23d0296aabceb8bd70a64eccc0c7e.jpg)
+<img src="https://i.pinimg.com/736x/11/f2/3d/11f23d0296aabceb8bd70a64eccc0c7e.jpg" style="width: 80px; height: auto;">
